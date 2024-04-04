@@ -18,7 +18,7 @@ Create a Typescript NodeJS Express API Rest that fetches the subgraph and return
 
 ## Details
 
-Using `graphql-request` setup the client using TheGraph, alchemy or any other subgraph tool. Get the latest **block number** on Arbitrum One Mainnet and return it in the `GET` route response of the fetched subgraph. Optimize the cache using another lib, manual memory ram states or any other idea.
+Using `graphql-request` setup the client using TheGraph, alchemy or any other subgraph tool. Get the latest **block number** on Arbitrum One Mainnet and return it in the `GET` route response. Optimize the cache using another lib, manual memory ram states or any other idea.
 
 ## Evaluation
 
