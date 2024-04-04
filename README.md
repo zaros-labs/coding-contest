@@ -13,7 +13,8 @@ Create a Typescript NodeJS Express API Rest that fetches the subgraph and return
 - Types
 - Unit tests
 - Queries
-- Env- Cache optimization
+- Env
+- Cache optimization
 
 ## Details
 
