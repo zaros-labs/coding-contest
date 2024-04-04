@@ -18,4 +18,8 @@ Create a Typescript NodeJS Express API Rest that fetches the subgraph and return
 
 ## Details
 
-Using `graphql-request` setup the client using TheGraph, alchemy or any other subgraph. Use any contract address to get any log. Ex: token was minted, transferred or a log that makes sense. Return in the GET route the response of the fetched subgraph. Optimize the cache using another lib, manual memory ram states or any other idea.
+Using `graphql-request` setup the client using TheGraph, alchemy or any other subgraph tool. Get the latest **block number** on Arbitrum One Mainnet and return it in the `GET` route response of the fetched subgraph. Optimize the cache using another lib, manual memory ram states or any other idea.
+
+## Evaluation
+
+Attention to the files structure, simplicity with high functionality, optimization capabilities, types definition, graphql and EVM tools understanding.
