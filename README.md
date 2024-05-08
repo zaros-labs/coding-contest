@@ -32,4 +32,10 @@ Candidates will be evaluated based on the following criteria:
 
 ---
 
+</br>
+
 This challenge aims to assess your ability to design and implement a robust backend solution using TypeScript, Node.js, Express, and GraphQL. Good luck!
+
+### Extra (Optional)
+
+Create an endpoint to retrieve a user's `balanceOf` for [Tether USD](https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9#readProxyContract) using the ERC-20 ABI, TypeChain, Ethers.js, or any other suitable tool. The objective is to assess the developer's ability to interact with the EVM. Completing the extra test is optional and not required for the contest.
